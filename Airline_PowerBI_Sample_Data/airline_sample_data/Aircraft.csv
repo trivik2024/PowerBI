@@ -1,0 +1,11 @@
+AircraftID,Type,Manufacturer,Seats,Age
+A000,A320,Bombardier,269,12
+A001,B737,Bombardier,175,13
+A002,A350,Airbus,249,10
+A003,B777,Embraer,155,15
+A004,B787,ATR,192,3
+A005,A321,Bombardier,155,5
+A006,B747,Bombardier,144,2
+A007,E190,Embraer,278,12
+A008,CRJ900,Bombardier,184,2
+A009,ATR72,Embraer,256,15
